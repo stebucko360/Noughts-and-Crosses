@@ -67,5 +67,10 @@ if (gridNum === 'one' && xo === 'X'){
 } else if (gridNum === 'nine' && xo === 'O'){
     currentValues.splice(8, 0, 'O')
 } 
+
+//add logic to eval winning combos in array, 
+//Horizontally=> 0,1,2; 3,4,5; 6,7,8
+//Vertically => 0,3,6; 1,4,7; 2,5,8
+//Diagonally=>0,4,8; 2,4,6
 };
 
