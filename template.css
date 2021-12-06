@@ -1,0 +1,60 @@
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    background-color: black;
+    padding: 5cm;
+  }
+  
+.grid-item {
+    background-color: rgba(233, 8, 8, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 3cm;
+    font-size: 30px;
+    text-align: center;
+  }
+
+.one {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
+.two {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
+.three {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
+.four {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
+.five {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
+.six {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
+.seven {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
+.eight {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
+.nine {
+    width: max-content;    
+    height: max-content;
+    font-size: 1.2cm;
+}
